@@ -19,7 +19,7 @@ application: data_driven_university {
     new_window: no
     allow_forms: no
     allow_same_origin: no
-    core_api_methods: ["me", "internal_help_resources_content", "search_groups", "all_group_users", "all_lookml_models"]
+    core_api_methods: ["me", "internal_help_resources_content", "search_groups", "all_group_users", "all_lookml_models", "user_roles"]
     external_api_urls: []
     oauth2_urls: []
   }
