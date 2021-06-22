@@ -21,7 +21,7 @@ application: data_driven_university {
     use_form_submit: yes
     use_embeds: yes
     core_api_methods: ["me", "internal_help_resources_content", "search_groups", "all_group_users", "all_lookml_models", "user_roles"]
-    external_api_urls: ["https://cdn.datadriven.tools","https://sessions.bugsnag.com","https://notify.bugsnag.com","https://backend.datadriven.tools","https://cdn.datadriven.tools","https://vimeo.com"]
+    external_api_urls: ["https://cdn.datadriven.tools","https://sessions.bugsnag.com","https://notify.bugsnag.com","https://backend.datadriven.tools","https://datadriven.university","https://cdn.datadriven.tools","https://vimeo.com"]
     oauth2_urls: []
   }
 }
