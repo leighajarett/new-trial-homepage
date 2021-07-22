@@ -17,7 +17,7 @@ application: data_driven_university {
     local_storage: yes
     navigation: no
     new_window: yes
-    new_window_external_urls: ["https://chrome.google.com/*", "https://microsoftedge.microsoft.com/*"]
+    new_window_external_urls: ["https://chrome.google.com/*", "https://microsoftedge.microsoft.com/*", "https://trial.looker.com/*"]
     use_form_submit: yes
     use_embeds: yes
     core_api_methods: ["me", "internal_help_resources_content", "search_groups", "all_group_users", "all_lookml_models", "user_roles"]
